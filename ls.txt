@@ -1,0 +1,6 @@
+CONTENIDO: 
+dir1
+dir2
+imagen2_y.jpg
+imagen4_n.jpg
+imagen6_y.jpg
